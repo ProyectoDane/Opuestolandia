@@ -1,0 +1,12 @@
+com.infinixsoft.asdraopuestos
+drawable ic_action_search
+drawable ic_launcher
+drawable icon
+id menu_settings
+layout activity_main
+menu activity_main
+string app_name
+string hello_world
+string menu_settings
+string title_activity_main
+style AppTheme

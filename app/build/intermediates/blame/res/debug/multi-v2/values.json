@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/moisesapaza/ProjectsAndroid/OpuestolandiaAndroidStudio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/moisesapaza/ProjectsAndroid/OpuestolandiaAndroidStudio/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "17,68,121,172",
+                        "endColumns": "50,52,50,61",
+                        "endOffsets": "63,116,167,229"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,159,210",
+                        "endColumns": "50,52,50,61",
+                        "endOffsets": "101,154,205,267"
+                    }
+                },
+                {
+                    "source": "/Users/moisesapaza/ProjectsAndroid/OpuestolandiaAndroidStudio/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "272",
+                        "endColumns": "57",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        }
+    ]
+}
